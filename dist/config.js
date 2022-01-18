@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var token = 'YOUR_BOT_TOKEN';
+var token = '5082903760:AAGZo9CqZ0JsFLTLktcPVS5_DY0zX9WIbAA';
 var github = {
   version: '3.0.0',
   // optional
